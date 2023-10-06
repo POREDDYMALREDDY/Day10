@@ -1,0 +1,5 @@
+Hi Good Morning All
+Working Director:
+ In this stage git is only aware of the having files in the project will not track these files untile we connect we have commit those files.
+Stagging ares:
+ The stagging area like rough dralt space it's where you can git add version of the files or multiple files that you to ave in your next commit.
